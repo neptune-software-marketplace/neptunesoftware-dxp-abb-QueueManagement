@@ -1646,7 +1646,7 @@
 												{
 													"attribute": "text",
 													"grouping": "Properties",
-													"value": "Your order have been successfully completed.",
+													"value": "Your order has been successfully completed.",
 													"script": "",
 													"translation": []
 												},
@@ -1890,7 +1890,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "24.03.07.1416",
+	"ver": "24.03.07.1540",
 	"application": "queue_management_client",
 	"title": "User: Queue Management  ",
 	"description": "Queue Management  - User App",
