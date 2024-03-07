@@ -1,0 +1,73 @@
+{
+	"id": "339fb799-c6d4-ee11-85f9-000d3ad7b47d",
+	"createdAt": "2024-02-26T16:46:40.986Z",
+	"createdBy": "emmanuella.ndukwe@neptune-software.com",
+	"fields": [
+		{
+			"id": "7535ad70-76a5-4035-db71-a2a8bd3367d7",
+			"fieldName": "email",
+			"fieldType": "mediumtext",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "956c3dcd-c638-466c-a6b4-468232195f17",
+			"fieldName": "identifier",
+			"fieldType": "smalltext",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "f0190e09-e327-45fd-a0d3-57fb0d7ec21e",
+			"fieldName": "name",
+			"fieldType": "mediumtext",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "341fc68f-ca8a-47d2-b57b-8a0f92ee6ba7",
+			"fieldName": "note",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "2cc2cef4-21fb-4963-9400-de27d60e352b",
+			"fieldName": "phone",
+			"fieldType": "mediumtext",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "4e2a8a4b-cbc6-4e2a-c4eb-187f9c3cec6f",
+			"fieldName": "queue",
+			"fieldType": "smalltext",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "8c67506e-4742-4927-fb57-6979f491feeb",
+			"fieldName": "rating",
+			"fieldType": "smalltext",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "42ccedf8-6c52-48b3-b24d-8f864ddf1252",
+			"fieldName": "status",
+			"fieldType": "integer",
+			"isUnique": false,
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "queue_master",
+	"description": "Queue Management Master Data",
+	"ver": "24.2.26.1753",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "155dbbb0-c4d4-ee11-85f9-000d3ad7b47d",
+	"rolesRead": [],
+	"rolesWrite": []
+}

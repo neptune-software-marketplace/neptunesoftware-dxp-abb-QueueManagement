@@ -1,0 +1,37 @@
+{
+	"id": "13d5da26-cad4-ee11-85f9-000d3ad7b47d",
+	"createdAt": "2024-02-26T17:12:00.566Z",
+	"createdBy": "emmanuella.ndukwe@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [
+		{
+			"id": "339FB799-C6D4-EE11-85F9-000D3AD7B47D",
+			"name": "queue_master",
+			"contextname": "queue_master"
+		},
+		{
+			"id": "1201BF06-C7D4-EE11-85F9-000D3AD7B47D",
+			"name": "queue_status",
+			"contextname": "queue_status"
+		},
+		{
+			"id": "010498FC-C7D4-EE11-85F9-000D3AD7B47D",
+			"name": "queue_type",
+			"contextname": "queue_type"
+		}
+	],
+	"apis": [],
+	"name": "master_data",
+	"ver": "24.2.26.1944",
+	"description": null,
+	"folder": null,
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": true,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "0c5f6e12-cad4-ee11-85f9-000d3ad7b47d",
+	"package": "155dbbb0-c4d4-ee11-85f9-000d3ad7b47d"
+}

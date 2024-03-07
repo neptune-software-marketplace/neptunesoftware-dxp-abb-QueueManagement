@@ -1,0 +1,38 @@
+{
+	"id": "010498fc-c7d4-ee11-85f9-000d3ad7b47d",
+	"createdAt": "2024-02-26T16:56:34.296Z",
+	"createdBy": "emmanuella.ndukwe@neptune-software.com",
+	"fields": [
+		{
+			"id": "8fa8ba3c-d5db-4706-fa77-13654f6a7c7b",
+			"fieldName": "name",
+			"fieldType": "smalltext",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "fb03aeed-6bb3-4c50-c506-15797052c512",
+			"fieldName": "description",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "f9d2eb27-4e63-4aa5-edc8-ae3237e3a64e",
+			"fieldName": "icon",
+			"fieldType": "mediumtext",
+			"isUnique": false,
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "queue_type",
+	"description": " Queue Management: queue type",
+	"ver": "24.2.26.1756",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "155dbbb0-c4d4-ee11-85f9-000d3ad7b47d",
+	"rolesRead": [],
+	"rolesWrite": []
+}

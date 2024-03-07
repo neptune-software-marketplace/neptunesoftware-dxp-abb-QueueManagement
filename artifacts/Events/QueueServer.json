@@ -1,0 +1,19 @@
+{
+	"id": "ebb60838-d7d4-ee11-85f9-000d3ad7b47d",
+	"createdAt": "2024-02-26T18:45:32.830Z",
+	"createdBy": "emmanuella.ndukwe@neptune-software.com",
+	"name": "QueueServer",
+	"description": null,
+	"eventAction": "ScriptEvent",
+	"scriptId": "d88238e6-cad4-ee11-85f9-000d3ad7b47d",
+	"jobId": null,
+	"workflowId": null,
+	"package": "155dbbb0-c4d4-ee11-85f9-000d3ad7b47d",
+	"script": {
+		"id": "d88238e6-cad4-ee11-85f9-000d3ad7b47d",
+		"name": "event_handler",
+		"ver": "24.2.27.743"
+	},
+	"job": null,
+	"workflow": null
+}

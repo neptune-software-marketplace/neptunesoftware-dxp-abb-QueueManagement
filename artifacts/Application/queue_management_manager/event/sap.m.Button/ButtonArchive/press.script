@@ -1,0 +1,10 @@
+
+// Multimodel needs name of Multimodel 
+const context = oEvent.oSource.getBindingContext("Master");  
+
+// Get Entire Model
+const data = context.getObject();
+
+modelDialog.setData(data);
+Dialog.open();
+
