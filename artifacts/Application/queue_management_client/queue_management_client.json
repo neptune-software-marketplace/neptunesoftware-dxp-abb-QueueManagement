@@ -27,7 +27,7 @@
 						{
 							"attribute": "title",
 							"grouping": "Properties",
-							"value": "Queue Management Portal",
+							"value": "Place your Order",
 							"script": "",
 							"translation": []
 						},
@@ -1690,29 +1690,6 @@
 					"attributes": [],
 					"data": [
 						{
-							"fieldNo": "4434fc98-a14d-46b8-c9d3-d8a327180fc1",
-							"fieldName": "API_eventHandler",
-							"fieldParent": "ba775f97-beed-49fc-cb5c-1a43ccb5af04",
-							"fieldType": "neptune.restapi",
-							"script": "",
-							"customComponent": false,
-							"restSource": "6955182e-d9d4-ee11-85f9-000d3ad7b47d",
-							"restOperation": "a7ed892c-4a66-4ef3-8b57-1c285c29bfb0",
-							"request": [],
-							"response": [],
-							"attributes": [
-								{
-									"attribute": "ajaxSuccess",
-									"grouping": "Events",
-									"value": "Anonymous Function",
-									"script": "file://event/neptune.restapi/API_eventHandler/ajaxSuccess.js",
-									"language": "javascript",
-									"translation": []
-								}
-							],
-							"data": []
-						},
-						{
 							"fieldNo": "53f6e875-b6d1-4932-8a4d-7cca4b2e9b19",
 							"fieldName": "GetData",
 							"fieldParent": "ba775f97-beed-49fc-cb5c-1a43ccb5af04",
@@ -1890,7 +1867,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "24.03.07.1540",
+	"ver": "24.03.08.1608",
 	"application": "queue_management_client",
 	"title": "User: Queue Management  ",
 	"description": "Queue Management  - User App",
@@ -1909,7 +1886,7 @@
 	"ui5_tnt": false,
 	"ui5_uxap": false,
 	"ui5_chart": false,
-	"ui5_theme": "sap_horizon_dark",
+	"ui5_theme": "sap_horizon",
 	"ui5_version": "1.108",
 	"ui5_language": null,
 	"ui5_url": "",

@@ -1705,7 +1705,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "24.03.07.1501",
+	"ver": "24.03.07.1550",
 	"application": "queue_management_manager",
 	"title": "Queue Management - Manager App",
 	"description": "Queue Manager",
@@ -1724,7 +1724,7 @@
 	"ui5_tnt": false,
 	"ui5_uxap": false,
 	"ui5_chart": false,
-	"ui5_theme": "sap_horizon_dark",
+	"ui5_theme": "sap_horizon",
 	"ui5_version": "customCDN",
 	"ui5_language": null,
 	"ui5_url": "https://openui5.hana.ondemand.com/resources/sap-ui-core.js",
