@@ -1,0 +1,42 @@
+[
+	{
+		"id": "d921de2f-9ea1-412f-87fb-da30db54ecd9",
+		"createdAt": "1708967096932",
+		"updatedAt": "1708967407939",
+		"createdBy": "emmanuella.ndukwe@neptune-software.com",
+		"updatedBy": "emmanuella.ndukwe@neptune-software.com",
+		"name": "Milkshakes",
+		"description": "Order Milkshakes",
+		"icon": "sap-icon://fa-solid/glass-martini-alt"
+	},
+	{
+		"id": "b35ce2e2-5614-4c34-be67-b9ce73b8805e",
+		"createdAt": "1708967096932",
+		"updatedAt": "1708967407939",
+		"createdBy": "emmanuella.ndukwe@neptune-software.com",
+		"updatedBy": "emmanuella.ndukwe@neptune-software.com",
+		"name": "Coffee",
+		"description": "Order Coffee",
+		"icon": "sap-icon://fa-solid/coffee"
+	},
+	{
+		"id": "8c6982c4-27f9-43bf-899b-b3e093141643",
+		"createdAt": "1708967096932",
+		"updatedAt": "1708967096932",
+		"createdBy": "emmanuella.ndukwe@neptune-software.com",
+		"updatedBy": "emmanuella.ndukwe@neptune-software.com",
+		"name": "Pastries",
+		"description": "Order Pastries",
+		"icon": "sap-icon://meal"
+	},
+	{
+		"id": "5a2a9262-50db-4ee0-bff5-902f29b0c171",
+		"createdAt": "1708967096932",
+		"updatedAt": "1708967407939",
+		"createdBy": "emmanuella.ndukwe@neptune-software.com",
+		"updatedBy": "emmanuella.ndukwe@neptune-software.com",
+		"name": "Soda",
+		"description": "Order Soda",
+		"icon": "sap-icon://fa-solid/glass-martini-alt"
+	}
+]

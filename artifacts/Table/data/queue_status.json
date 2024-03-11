@@ -1,0 +1,32 @@
+[
+	{
+		"id": "c1af9ed4-5daa-448c-b90b-e52b96fbbfb5",
+		"createdAt": "1708966778435",
+		"updatedAt": "1708966778435",
+		"createdBy": "emmanuella.ndukwe@neptune-software.com",
+		"updatedBy": "emmanuella.ndukwe@neptune-software.com",
+		"name": "Completed",
+		"state": "Success",
+		"status": 3
+	},
+	{
+		"id": "9c00b08e-cb90-4ee6-9cc7-07224413e3f4",
+		"createdAt": "1708966778435",
+		"updatedAt": "1708966778435",
+		"createdBy": "emmanuella.ndukwe@neptune-software.com",
+		"updatedBy": "emmanuella.ndukwe@neptune-software.com",
+		"name": "Processing",
+		"state": "Information",
+		"status": 2
+	},
+	{
+		"id": "2c6602c0-2bdd-41b9-be89-8f2e382e11c6",
+		"createdAt": "1708966778435",
+		"updatedAt": "1708966778435",
+		"createdBy": "emmanuella.ndukwe@neptune-software.com",
+		"updatedBy": "emmanuella.ndukwe@neptune-software.com",
+		"name": "Waiting",
+		"state": "Warning",
+		"status": 1
+	}
+]
